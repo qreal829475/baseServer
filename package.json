@@ -1,0 +1,10 @@
+{
+  "name": "try",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "TangWJ",
+  
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
